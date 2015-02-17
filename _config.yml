@@ -7,15 +7,16 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            'Rizal'
+tagline:          'at Ruby and Rails'
+description:      "The purpose of this blog is to REPOST/REBLOG blogs that I think it's IMPORTANT and I should remember it"
+url:              http://rizalmuthi.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Rizal Muthi'
+  url:            https://twitter.com/rizalmuthi
+  email:          'rizalmuthi@gmail.com'
 
 paginate:         5
 
